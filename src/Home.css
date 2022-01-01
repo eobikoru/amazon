@@ -1,0 +1,21 @@
+.home_image{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px;
+}
+.home{
+width: 90%;
+margin:auto;
+
+
+}
+.home_row{
+
+    display: flex;
+    z-index: 1;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+body{
+    background-color:rgba(196, 190, 190, 0.322);
+}
